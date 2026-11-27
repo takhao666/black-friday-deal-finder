@@ -1,6 +1,6 @@
-[![Built for make.fun](https://img.shields.io/badge/built_for-make.fun-7c3aed)](https://make.fun)
-[![Black Friday 2026](https://img.shields.io/badge/Black_Friday-2026-b45309)](https://make.fun/bounty/black-friday-deal-finder-01)
-[![Deals checked](https://img.shields.io/badge/deals_checked-26-166534)](https://make.fun/bounty/black-friday-deal-finder-01)
+[![make.fun · black-friday-deal-finder-01](https://make.fun/badge/black-friday-deal-finder-01.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![rank](https://make.fun/badge/black-friday-deal-finder-01/takhao666/black-friday-deal-finder/rank.svg)](https://make.fun/bounty/black-friday-deal-finder-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
+[![reward](https://make.fun/badge/black-friday-deal-finder-01/takhao666/black-friday-deal-finder/reward.svg)](https://make.fun/bounty/black-friday-deal-finder-01?utm_source=github&utm_medium=readme&utm_campaign=black-friday-deal-finder-01)
 
 # DealBeacon — Black Friday 2026 deal finder
 
