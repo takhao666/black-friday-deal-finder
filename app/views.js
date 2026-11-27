@@ -15,6 +15,7 @@ export function card(d, best = false) {
   <p class="price">${usd(d.price)} <s>${usd(d.was)}</s> <span class="off">${percentOff(d)}% off</span></p>
   <p class="save">You save ${usd(saving(d))}</p>
   <p class="meta">Checked ${checkedAt(d.checked)}</p>
+  <p class="meta">Source: ${escape(d.source)}</p>
   <p><a class="buy" href="${escape(d.url)}" rel="noopener" target="_blank">View at ${escape(d.store)} &rarr;</a></p>
 </article>`;
 }
